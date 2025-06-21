@@ -167,6 +167,7 @@ spotify-clone-celebal/
 
 Vikash Kushwah
 - GitHub: [vikash-kushwah](https://github.com/vikash-kushwah)
+- Linkedin: [vikashkushwahaa28](https://www.linkedin.com/in/vikashkushwahaa28/)
 
 ## Acknowledgments
 
